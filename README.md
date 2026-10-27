@@ -12,6 +12,6 @@
 [![](https://visitcount.itsvg.in/api?id=YAMRAAJ0&icon=0&color=0)](https://visitcount.itsvg.in)
 
 # 💫 About Me:
-🔭 I’m currently working on<br>Full Stack Web Development at DevOpsFarm, building scalable applications using Next.js and TypeScript.<br><br>👯 I’m looking to collaborate on<br>Full Stack projects, SaaS applications, and DevOps-focused web platforms.<br><br>🤝 I’m looking for help with<br>Advanced DevOps practices, cloud architecture, and CI/CD optimization.<br><br>🌱 I’m currently learning<br>DevOps tools and workflows (Docker, Kubernetes, CI/CD, Cloud).<br><br>💬 Ask me about<br>Next.js, TypeScript, Full Stack Development, MongoDB, APIs, and DevOps basics.<br><br>⚡ Fun fact<br>I love combining clean code with automation to build fast and reliable systems 🚀
+🔭 I’m currently working on<br>Full Stack Web Development at TioStar, building scalable applications using Next.js and TypeScript.<br><br>👯 I’m looking to collaborate on<br>Full Stack projects, SaaS applications, and DevOps-focused web platforms.<br><br>🤝 I’m looking for help with<br>Advanced DevOps practices, cloud architecture, and CI/CD optimization.<br><br>🌱 I’m currently learning<br>DevOps tools and workflows (Docker, Kubernetes, CI/CD, Cloud).<br><br>💬 Ask me about<br>Next.js, TypeScript, Full Stack Development, MongoDB, APIs, and DevOps basics.<br><br>⚡ Fun fact<br>I love combining clean code with automation to build fast and reliable systems 🚀
 
 <!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
